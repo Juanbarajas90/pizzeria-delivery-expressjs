@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-07-31T00:19:08.004Z",
+  "appliedFilter": "pizza-clasica",
+  "summary": {
+    "total": 3,
+    "active": 3,
+    "inactive": 0,
+    "averagePrice": 33333.33,
+    "mostExpensive": {
+      "id": "p002",
+      "name": "Pizza Pepperoni",
+      "category": "pizza-clasica",
+      "price": 35000,
+      "stock": 15,
+      "active": true
+    },
+    "cheapest": {
+      "id": "p001",
+      "name": "Pizza Margarita",
+      "category": "pizza-clasica",
+      "price": 32000,
+      "stock": 20,
+      "active": true
+    },
+    "categories": [
+      "pizza-clasica"
+    ]
+  },
+  "items": [
+    {
+      "id": "p001",
+      "name": "Pizza Margarita",
+      "category": "pizza-clasica",
+      "price": 32000,
+      "stock": 20,
+      "active": true
+    },
+    {
+      "id": "p002",
+      "name": "Pizza Pepperoni",
+      "category": "pizza-clasica",
+      "price": 35000,
+      "stock": 15,
+      "active": true
+    },
+    {
+      "id": "p003",
+      "name": "Pizza Napolitana",
+      "category": "pizza-clasica",
+      "price": 33000,
+      "stock": 18,
+      "active": true
+    }
+  ]
+}
