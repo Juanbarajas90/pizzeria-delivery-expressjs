@@ -1,0 +1,14 @@
+[
+  { "id": "p001", "name": "Pizza Margarita", "category": "pizza-clasica", "price": 32000, "stock": 20, "active": true },
+  { "id": "p002", "name": "Pizza Pepperoni", "category": "pizza-clasica", "price": 35000, "stock": 15, "active": true },
+  { "id": "p003", "name": "Pizza Napolitana", "category": "pizza-clasica", "price": 33000, "stock": 18, "active": true },
+  { "id": "p004", "name": "Pizza Hawaiana", "category": "pizza-especial", "price": 36000, "stock": 10, "active": true },
+  { "id": "p005", "name": "Pizza Cuatro Quesos", "category": "pizza-especial", "price": 38000, "stock": 8, "active": true },
+  { "id": "p006", "name": "Pizza BBQ Pollo", "category": "pizza-especial", "price": 39000, "stock": 6, "active": true },
+  { "id": "p007", "name": "Pizza Vegetariana", "category": "pizza-especial", "price": 34000, "stock": 0, "active": false },
+  { "id": "p008", "name": "Coca-Cola 400ml", "category": "bebida", "price": 6000, "stock": 40, "active": true },
+  { "id": "p009", "name": "Limonada Natural", "category": "bebida", "price": 7000, "stock": 25, "active": true },
+  { "id": "p010", "name": "Agua Mineral 500ml", "category": "bebida", "price": 4000, "stock": 50, "active": true },
+  { "id": "p011", "name": "Pan de Ajo", "category": "complemento", "price": 9000, "stock": 12, "active": true },
+  { "id": "p012", "name": "Alitas BBQ", "category": "complemento", "price": 15000, "stock": 0, "active": false }
+]
