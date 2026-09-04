@@ -1,0 +1,14 @@
+# Dependencias y caché — aplica a todas las ramas (week-01, week-02, ...)
+# para que node_modules/dist/etc no aparezcan como "sin commitear" al
+# cambiar de rama.
+node_modules/
+dist/
+logs/
+*.log
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
