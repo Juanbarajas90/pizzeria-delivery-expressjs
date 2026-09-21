@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "tsx src/index.ts",
     "build": "tsc --noEmit",
-    "start": "node dist/src/index.js"
+    "start": "tsx src/index.ts"
   },
   "devDependencies": {
     "@types/node": "22.15.21",
